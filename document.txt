@@ -1,0 +1,2 @@
+[ state ]:
+- giao diện chỉ re-render lại giá trị mới khi state thay đổi.
